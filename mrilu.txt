@@ -6,5 +6,34 @@ di'e cmene lu ki'e do jungau mi da .i ku'i da toldra na gi'e mutmi'i li'u
 .i mu'i ma pilno lo glico vlaste .i mu'i lo nu lo glico vlaste cu brarai .e
 lo nu mi ka'e jimpe fi zo'e pe lo glico 
 .i mi djica lo nu pilno lo lojbo lojbo bo vlaste
-.i ku'i lo ka barda pe lo jbojbovlaste cu te pilji li pano lo ka barda pe
+.i ku'i lo ni barda pe lo jbojbovlaste cu te pilji li pano lo ni barda pe
 lo glijbovlaste
+
+.i mi jarco lo ni barda .i ko catlu di'e
+.i se liste zoi liste.
+
+2187801 lojban_en.xml
+1206843 lojban_ru.xml
+ 666175 lojban_ja.xml
+ 318304 lojban_sv.xml
+ 273298 lojban_lojban.xml
+  44989 lojban_de.xml
+  30373 lojban_fr.xml
+
+.liste
+
+ni'o ni'o ni'o ni'o
+
+di'e cmene lu .ai mi bixygau lo bi'unai mutmi'i li'u
+
+.i ai mi bixygau lo bi'unai mutmi'i pe va'o lo nu pilno bau lo rusko
+
+ni'o va'o lo nu mi pilno le samselpla bau lo ponjo kei lo bi'unai mutmi'i cu plixau
+.i ki'u bo lo ponjo selyle'u cu mutce frica lo glico co'e
+.i ji'a lo so'e ponjo cu se na'e fange lo glico
+.i mu'i la'e di'u mi finti lo bi'unai mutmi'i
+.i mu'i la'e di'u mi na bixygau .ai lo bi'unai mutmi'i va'o lo nu co'e bau lo ponjo
+
+ni'o mi .aicu'i bixygau lo bi'unai mutmi'i va'o co'e bau loi drata bangu
+.i mi na kakne lo nu cuxna
+.i ai mi ba zi bixygau lo bi'unai mutmi'i  pe va'o lo nu co'e bau lo rusko po'o
